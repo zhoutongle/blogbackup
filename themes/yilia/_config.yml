@@ -6,16 +6,18 @@ menu:
 
 # SubNav
 subnav:
-  github: "https://github.com/litten"
-  weibo: "http://weibo.com/litten225"
-  rss: /atom.xml
+  github: "https://github.com/zhoutongle"
+  weibo: "https://weibo.com/p/1005057156988330/home?"
+  qq: 1140082051
+  weixin: ztl1140082051
+  #rss: /atom.xml
   #psn: "#"
   #zhihu: "#"
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "mailto:zhoutongle_123@163.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -61,7 +63,7 @@ google_analytics: false
 favicon: img/avatar.jpg
 
 #你的头像url
-avatar: /assets/blogImg/litten.png
+avatar: /img/avatar.jpg
 
 #是否开启分享
 share_jia: true
