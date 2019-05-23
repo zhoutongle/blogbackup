@@ -86,7 +86,7 @@ deploy:
   
  # Extensions
  ## Plugins: http://hexo.io/plugins/
-plugins: hexo-generate-feed
+#plugins: hexo-generate-feed
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
