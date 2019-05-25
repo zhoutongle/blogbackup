@@ -2,14 +2,14 @@
 
 menu:
   主页: /
-  相册: /photos
+  相册 && 视频: /photos
 
 # SubNav
 subnav:
   github: "https://github.com/zhoutongle"
   weibo: "https://weibo.com/p/1005057156988330/home?"
-  qq: 1140082051
-  weixin: ztl1140082051
+  #qq: 1140082051
+  #weixin: ztl1140082051
   #rss: /atom.xml
   #psn: "#"
   #zhihu: "#"
@@ -81,8 +81,8 @@ mobile:
 #wangyiyun: '2dba06fbf8d24c13915ea6c6aa7183b1'
 
 #3、畅言
-changyan_appid: 'cysX3aGWt'
-changyan_conf: 'prod_1dcda447175aada96edcdb7e412338fa'
+changyan_appid: 'cyufyfjDL'
+changyan_conf: '35e5d166c3fbfaa6aa5faecb1fa0f8d5'
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
 disqus: false
